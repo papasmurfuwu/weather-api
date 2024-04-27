@@ -1,0 +1,7 @@
+1. Create function for converting user-input city names to geographical coordinates (geocode)
+2. Input coordinates as arguemnts into get_weahter function, which gets the weather with the geocode
+3. Display results 
+
+Links: 
+Weather JSON Format: https://openweathermap.org/current
+Geocode JSON Format: https://openweathermap.org/api/geocoding-api
